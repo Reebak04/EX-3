@@ -56,10 +56,10 @@ while True:
 ```
 ## OUTPUT :
 ### clientoutput :
-![1bclient](https://github.com/Reebak04/EX-3/assets/118364993/c48d42c2-c9a9-446d-837c-7ba09a61235f)
+![co](https://github.com/Reebak04/EX-3/assets/118364993/2bfbad6b-6388-4fbc-b255-ab032c6c4c36)
 
 ### Serveroutput :
-![1bserver](https://github.com/Reebak04/EX-3/assets/118364993/6b3567a7-c26c-4fa4-bacd-1514df7c2894)
+![so](https://github.com/Reebak04/EX-3/assets/118364993/390f2eed-aba8-47d4-a90e-9d543f38e20e)
 
 ## RESULT :
 Thus, python program to perform sliding window protocol was successfully executed.
